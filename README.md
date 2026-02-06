@@ -13,7 +13,7 @@ Portfolio website ของ กษิดิ์ฤทธิ์ ไพโรจน
 
 ## Technologies Used
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - Font Awesome Icons
 
